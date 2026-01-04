@@ -1,0 +1,9 @@
+{
+    "style":[["text","elif "],["para",null]],
+    "color":"#FFD800",
+    "text color":"#000000",
+    "block type":"container",
+    "block name":"elif",
+    "block setting":[],
+    "struct":[["code","elif "],["arg",null],["adsb",":"]]
+}

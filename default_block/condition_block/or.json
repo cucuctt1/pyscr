@@ -1,0 +1,9 @@
+{
+    "style":[["para",null],["text","or"],["para",null]],
+    "color":"#4CFF00",
+    "text color":"#000000",
+    "block type":"condition",
+    "block name":"or",
+    "block setting":[],
+    "struct":[["arg",null],["adsb"," "],["code","or"],["adsb"," "],["arg",null]]
+}

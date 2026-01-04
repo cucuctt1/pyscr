@@ -1,0 +1,9 @@
+{
+    "style":[["para",null],["text","and"],["para",null]],
+    "color":"#4CFF00",
+    "text color":"#000000",
+    "block type":"condition",
+    "block name":"and",
+    "block setting":[],
+    "struct":[["bracket","("],["arg",null],["adsb"," "],["code","and"],["adsb"," "],["arg",null],["bracket",")"]]
+}

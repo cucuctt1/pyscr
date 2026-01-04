@@ -1,0 +1,9 @@
+{
+    "style":[["text","remove"],["para",null]],
+    "color":"#0094FF",
+    "text color":"#000000",
+    "block type":"normal",
+    "block name":"remove",
+    "block setting":["args"],
+    "struct":[["adsb", "."], ["code","remove"],["bracket","("], ["arg", null], ["bracket",")"]]
+}

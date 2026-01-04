@@ -1,0 +1,9 @@
+{
+    "style":[["text","def"],["text",""],["para",null],["btn",null]],
+    "color":"#B200FF",
+    "text color":"#FFFFFF",
+    "block type":"container",
+    "block name":"def",
+    "block setting":[],
+    "struct":[["code","def "],["bracket","("],["arg",[]],["adsb",","],["bracket",")"],["adsb",":"]]
+}

@@ -1,0 +1,4 @@
+/CF_store/*
+*/__pycache__/
+/scripts/
+.gitkeep

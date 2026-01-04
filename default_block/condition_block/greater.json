@@ -1,0 +1,9 @@
+{
+    "style":[["para",null],["text",">"],["para",null]],
+    "color":"#4CFF00",
+    "text color":"#000000",
+    "block type":"condition",
+    "block name":"greater",
+    "block setting":[],
+    "struct":[["arg",null],["adsb"," "],["code",">"],["adsb"," "],["arg",null]]
+}

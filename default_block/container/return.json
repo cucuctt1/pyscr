@@ -1,0 +1,9 @@
+{
+    "style":[["text","return "],["para",null]],
+    "color":"#FFD800",
+    "text color":"#000000",
+    "block type":"normal",
+    "block name":"return",
+    "block setting":[],
+    "struct":[["code","return "],["arg",null]]
+}

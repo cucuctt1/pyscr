@@ -1,0 +1,9 @@
+{
+    "style":[["text","class"],["text",""],["para",null],["btn",null]],
+    "color":"#FFD800",
+    "text color":"#000000",
+    "block type":"container",
+    "block name":"class",
+    "block setting":[],
+    "struct":[["code","class "],["name",""],["bracket","("],["arg",[]],["adsb",","],["bracket",")"],["adsb",":"]]
+}

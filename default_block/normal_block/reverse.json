@@ -1,0 +1,9 @@
+{
+    "style":[["text","reverse"],["para",null]],
+    "color":"#0094FF",
+    "text color":"#000000",
+    "block type":"normal",
+    "block name":"reverse",
+    "block setting":["args"],
+    "struct":[["adsb", "."], ["code","reverse"],["bracket","("], ["bracket",")"]]
+}

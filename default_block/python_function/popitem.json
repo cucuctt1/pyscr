@@ -1,0 +1,9 @@
+{
+    "style":[["text",".popitem"],["para",null]],
+    "color":"#0094FF",
+    "text color":"#000000",
+    "block type":"normal",
+    "block name":"popitem",
+    "block setting":["args"],
+    "struct":[["adsb","."], ["code","popitem"],["bracket","("],["bracket",")"]]
+}

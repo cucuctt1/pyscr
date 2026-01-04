@@ -1,0 +1,9 @@
+{
+    "style":[["text","bin"],["para",null]],
+    "color":"#0094FF",
+    "text color":"#000000",
+    "block type":"normal",
+    "block name":"bin",
+    "block setting":["args"],
+    "struct":[["code","bin"],["bracket","("],["arg", null], ["bracket",")"]]
+}

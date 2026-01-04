@@ -1,0 +1,9 @@
+{
+    "style":[["text",".fromkeys"],["para",null]],
+    "color":"#0094FF",
+    "text color":"#000000",
+    "block type":"normal",
+    "block name":"fromkeys",
+    "block setting":["args"],
+    "struct":[["adsb","."], ["code","fromkeys"],["bracket","("],["arg", null], ["adsb", ","], ["arg", null], ["bracket",")"]]
+}

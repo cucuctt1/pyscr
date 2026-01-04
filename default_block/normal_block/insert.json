@@ -1,0 +1,9 @@
+{
+    "style":[["text","insert"],["para",null]],
+    "color":"#0094FF",
+    "text color":"#000000",
+    "block type":"normal",
+    "block name":"insert",
+    "block setting":["args"],
+    "struct":[["adsb", "."], ["code","insert"],["bracket","("], ["arg", null], ["adsb", ","], ["arg", null], ["bracket",")"]]
+}

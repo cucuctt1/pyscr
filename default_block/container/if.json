@@ -1,0 +1,9 @@
+{
+    "style":[["text","if "],["para",null]],
+    "color":"#FFD800",
+    "text color":"#000000",
+    "block type":"container",
+    "block name":"if",
+    "block setting":[],
+    "struct":[["code","if "],["arg",null],["adsb",":"]]
+}

@@ -1,0 +1,9 @@
+{
+    "style":[["text","print"],["para",null]],
+    "color":"#0094FF",
+    "text color":"#000000",
+    "block type":"normal",
+    "block_name":"print",
+    "block setting":["args"],
+    "struct":[["code","print"],["bracket","("],["arg",[]],["adsb"," "],["bracket",")"]]
+}

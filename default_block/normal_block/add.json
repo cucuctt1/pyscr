@@ -1,0 +1,9 @@
+{
+    "style":[["para",null],["text","+"],["para",null]],
+    "color":"#0094FF",
+    "text color":"#000000",
+    "block type":"normal",
+    "block name":"add",
+    "block setting":[],
+    "struct":[["bracket","("],["arg",null],["code","+"],["arg",null],["bracket",")"]]
+}

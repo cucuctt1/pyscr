@@ -1,0 +1,9 @@
+{
+    "style":[["text","count"],["para",null]],
+    "color":"#0094FF",
+    "text color":"#000000",
+    "block type":"normal",
+    "block name":"count",
+    "block setting":["args"],
+    "struct":[["adsb", "."], ["code","count"],["bracket","("], ["arg", null], ["bracket",")"]]
+}

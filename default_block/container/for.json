@@ -1,0 +1,9 @@
+{
+    "style":[["text","for"],["para",null],["text","in"],["para",null],["btn",null]],
+    "color":"#FFD800",
+    "text color":"#000000",
+    "block type":"container",
+    "block name":"for",
+    "block setting":[],
+    "struct":[["code","for "],["arg",null],["adsb"," "],["code","in "],["arg",null],["adsb",":"]]
+}

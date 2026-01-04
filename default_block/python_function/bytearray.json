@@ -1,0 +1,9 @@
+{
+    "style":[["text","bytearray"],["para",null]],
+    "color":"#0094FF",
+    "text color":"#000000",
+    "block type":"normal",
+    "block name":"bytearray",
+    "block setting":["args"],
+    "struct":[["code","bytearray"],["bracket","("],["arg", null], ["bracket",")"]]
+}

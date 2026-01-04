@@ -1,0 +1,9 @@
+{
+    "style":[["text","sort"],["para",null]],
+    "color":"#0094FF",
+    "text color":"#000000",
+    "block type":"normal",
+    "block name":"sort",
+    "block setting":["args"],
+    "struct":[["adsb", "."], ["code","sort"],["bracket","("], ["bracket",")"]]
+}

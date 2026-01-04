@@ -1,0 +1,9 @@
+{
+    "style": [["text","("],["para",null],["text",")"]],
+    "color":"#0094FF",
+    "text color":"#000000",
+    "block type":"normal",
+    "block name":"tuple",
+    "block setting":["side"],
+    "struct":[["bracket","("],["arg",[]],["adsb",","],["bracket",")"]]
+}

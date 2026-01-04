@@ -1,0 +1,9 @@
+{
+    "style":[["text",".update"],["para",null]],
+    "color":"#0094FF",
+    "text color":"#000000",
+    "block type":"normal",
+    "block name":"update",
+    "block setting":["args"],
+    "struct":[["adsb","."], ["code","update"], ["bracket","("], ["bracket", "{"], ["arg", null], ["adsb", ":"], ["arg", null], ["bracket", "}"] , ["bracket",")"]]
+}

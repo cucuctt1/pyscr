@@ -1,0 +1,9 @@
+{
+    "style":[["text","clear"],["para",null]],
+    "color":"#0094FF",
+    "text color":"#000000",
+    "block type":"normal",
+    "block name":"clear",
+    "block setting":["args"],
+    "struct":[["adsb", "."], ["code","clear"],["bracket","("], ["bracket",")"]]
+}
